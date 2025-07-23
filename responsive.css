@@ -1,0 +1,234 @@
+/* --bs-breakpoint-xs: 0;
+    --bs-breakpoint-sm: 576px;
+    --bs-breakpoint-md: 768px;
+    --bs-breakpoint-lg: 992px;
+    --bs-breakpoint-xl: 1200px;
+    --bs-breakpoint-xxl: 1400px; */
+    @media  (max-width:3000px) {
+        .para{
+        
+            font-size: 10rem;
+            font-weight: 900;
+            padding: 18rem 1rem;
+            position: absolute;
+        }
+        .two{
+            padding: 28rem 1rem;
+        }
+        .three{
+            padding: 38rem 1rem;
+        }
+        .four{
+            font-size: 2rem;
+            padding: 47rem 1rem;
+        }
+        .vision,.reason,.info{
+            text-align: center;
+        }
+       
+    }
+    @media  (max-width:2000px) {
+        .para{
+        
+            font-size: 4rem;
+            font-weight: 900;
+            padding: 12rem 1rem;
+            position: absolute;
+        }
+        .two{
+            padding: 17rem 1rem;
+        }
+        .three{
+            padding: 22rem 1rem;
+        }
+        .four{
+            font-size: 2rem;
+            padding: 28rem 1rem;
+        }
+        .vision,.reason,.info{
+            text-align: center;
+        }
+       
+    }
+.painter{
+    padding: 4rem 0;
+}
+
+    @media  (max-width:1400px) {
+        .para{
+            font-size: 4rem;
+            font-weight: 900;
+            padding: 12rem 1rem;
+            position: absolute;
+        }
+        .two{
+            padding: 17rem 1rem;
+        }
+        .three{
+            padding: 22rem 1rem;
+        }
+        .four{
+            font-size: 2rem;
+            padding: 28rem 1rem;
+        }
+.painter{
+    padding: 4rem 0;
+}
+.social{
+    text-align: center;
+    font-size: 2rem;
+}
+        
+    }
+    @media  (max-width:1200px) {
+        .para{
+            font-size: 3rem;
+            padding: 10rem 1rem;
+            position: absolute;
+            letter-spacing: 3PX;
+        }
+        .two{
+            padding: 14rem 1rem;
+        }
+        .three{
+            padding: 18rem 1rem;
+        }
+        .four{
+            font-size: 1.7rem;
+            padding: 22rem 1rem;
+            letter-spacing: 1PX;
+
+        }
+        
+    }
+    @media  (max-width:992px) {
+        .para{
+            font-size: 3rem;
+            padding: 10rem 1rem;
+            position: absolute;
+            letter-spacing: 3PX;
+
+        }
+        .two{
+            padding: 14rem 1rem;
+        }
+        .three{
+            padding: 18rem 1rem;
+        }
+        .four{
+            font-size: 1rem;
+            padding: 22rem 1rem;
+            letter-spacing: 1px;
+
+        }
+        .painter{
+            padding: 5rem 0;
+        }
+           
+        /* .navigation-wrap .navbar-brand img{
+            height: 3.8125rem;
+        }
+        .navigation-wrap {
+            text-align: center;
+        }
+        .navigation-wrap .nav-link{
+            line-height: 1.875rem;
+        }
+         */
+         #footer{
+            text-align: center;
+        }
+
+        .social{
+            text-align: left;
+            font-size: 2rem;
+       }
+       .vision,.reason,.info{
+        text-align: left;
+    }
+    }
+
+    @media  (max-width:768px) {
+        .para{
+            font-size: 3rem;
+            padding: 8rem 1rem;
+            position: absolute;
+            letter-spacing: 3px;
+
+        }
+        .two{
+            padding: 11rem 1rem;
+        }
+        .three{
+            padding: 14rem 1rem;
+        }
+        .four{
+            font-size: 1rem;
+            padding: 17rem 1rem;
+            letter-spacing: 1px;
+
+        }
+        .painter{
+            padding: 5rem 0;
+        }
+        /*  */
+
+        #footer{
+            text-align: left;
+        }
+
+           .middle{
+            text-align: left;
+           }
+        .social{
+            text-align: left;
+            font-size: 2rem;
+       }
+        
+    }
+
+    @media  (max-width:576px) {
+        .para{
+            font-size: 1.3rem;
+            padding: 7rem 1rem;
+            position: absolute;
+            letter-spacing: 3px;
+
+        }
+        .two{
+            padding: 8.4rem 1rem;
+        }
+        .three{
+            padding: 9.8rem 1rem;
+        }
+        .four{
+            font-size: 0.525rem;
+            padding: 10.9rem 1rem;
+            letter-spacing: 1px;
+
+        }
+
+        /* section counter */
+        #count1{
+            font-size: 2rem;
+        }
+        #count2{
+            font-size: 2rem;
+        }
+        #count3{
+            font-size: 2rem;
+        }
+
+        .counter-section{
+            background-color: var(--white-color);
+            /* padding: 0.625rem 0; */
+          }
+
+/*  */
+
+          .social{
+               text-align: left;
+               font-size: 1.5rem;
+          }
+
+    }
